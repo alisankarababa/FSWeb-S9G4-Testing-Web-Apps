@@ -1,0 +1,4 @@
+- <IletisimFormu /> sorunsuz render edilebiliyor mu?
+- isim alanına 5 karakterden az veri girildiğinde hata mesajı "ad en az 5 karakter olmalıdır" mesajı veriliyor mu?
+- geçersiz bir emal girildiğinde örneğin @ bulunmayan  "email geçerli bir email adresi olmalıdır" hatası alınıyor mu?
+- ad, soyad, veya email boş bırakıldığında ad, soyad, email gereklidir gibi bir mesaaj alınıyor mu?
